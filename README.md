@@ -10,4 +10,4 @@ Este foi o meu primeiro repositório remoto criado com o GitHub!
 
 Confira meu perfil em: [alchNicolas](https://github.com/alchNicolas)
 
-Atualizado em agosto de 2025
+Atualizado em 26 de agosto de 2025
